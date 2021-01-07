@@ -13,7 +13,9 @@ Clone this repo with
 
 In the project directory, you can run:
 > $ yarn install
+
 to install the project dependencies.
+
 
 > $ yarn start
 
