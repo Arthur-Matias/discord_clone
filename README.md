@@ -8,17 +8,22 @@ Discord frontend clone with React and TypeScript
 
 Clone this repo with
 
-> $ git clone https://github.com/Arthur-Matias/Arthur-Matias.github.io
+```bash
+$ git clone https://github.com/Arthur-Matias/Arthur-Matias.github.io
+```
 
 In the project directory, you can run:
-> $ yarn install
+```bash
+$ yarn install // also work with npm
+```
 
 to install the project dependencies.
 
-
+```bash
 > $ yarn start
+```
 
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can check the deployed project [here](https://arthur-matias.github.io/discord_clone/)
