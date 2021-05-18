@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Arthur-Matias/discord_clone/static/js/main.fbf4d165.chunk.js",
+    "main.js.map": "/Arthur-Matias/discord_clone/static/js/main.fbf4d165.chunk.js.map",
+    "runtime-main.js": "/Arthur-Matias/discord_clone/static/js/runtime-main.1b57ff01.js",
+    "runtime-main.js.map": "/Arthur-Matias/discord_clone/static/js/runtime-main.1b57ff01.js.map",
+    "static/js/2.a78ed542.chunk.js": "/Arthur-Matias/discord_clone/static/js/2.a78ed542.chunk.js",
+    "static/js/2.a78ed542.chunk.js.map": "/Arthur-Matias/discord_clone/static/js/2.a78ed542.chunk.js.map",
+    "index.html": "/Arthur-Matias/discord_clone/index.html",
+    "precache-manifest.2b66d47c21bc88e0c16a55ff05828e39.js": "/Arthur-Matias/discord_clone/precache-manifest.2b66d47c21bc88e0c16a55ff05828e39.js",
+    "service-worker.js": "/Arthur-Matias/discord_clone/service-worker.js",
+    "static/js/2.a78ed542.chunk.js.LICENSE.txt": "/Arthur-Matias/discord_clone/static/js/2.a78ed542.chunk.js.LICENSE.txt",
+    "static/media/Discord-Logo-White.svg": "/Arthur-Matias/discord_clone/static/media/Discord-Logo-White.1c8a54f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b57ff01.js",
+    "static/js/2.a78ed542.chunk.js",
+    "static/js/main.fbf4d165.chunk.js"
+  ]
+}
