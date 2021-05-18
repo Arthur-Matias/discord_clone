@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/Arthur-Matias/discord_clone/static/js/main.fbf4d165.chunk.js",
-    "main.js.map": "/Arthur-Matias/discord_clone/static/js/main.fbf4d165.chunk.js.map",
-    "runtime-main.js": "/Arthur-Matias/discord_clone/static/js/runtime-main.1b57ff01.js",
-    "runtime-main.js.map": "/Arthur-Matias/discord_clone/static/js/runtime-main.1b57ff01.js.map",
-    "static/js/2.a78ed542.chunk.js": "/Arthur-Matias/discord_clone/static/js/2.a78ed542.chunk.js",
-    "static/js/2.a78ed542.chunk.js.map": "/Arthur-Matias/discord_clone/static/js/2.a78ed542.chunk.js.map",
-    "index.html": "/Arthur-Matias/discord_clone/index.html",
-    "precache-manifest.b1707a3376bd081d873ac6565d03dda9.js": "/Arthur-Matias/discord_clone/precache-manifest.b1707a3376bd081d873ac6565d03dda9.js",
-    "service-worker.js": "/Arthur-Matias/discord_clone/service-worker.js",
-    "static/js/2.a78ed542.chunk.js.LICENSE.txt": "/Arthur-Matias/discord_clone/static/js/2.a78ed542.chunk.js.LICENSE.txt",
-    "static/media/Discord-Logo-White.svg": "/Arthur-Matias/discord_clone/static/media/Discord-Logo-White.1c8a54f2.svg"
+    "main.js": "/discord_clone/static/js/main.fbf4d165.chunk.js",
+    "main.js.map": "/discord_clone/static/js/main.fbf4d165.chunk.js.map",
+    "runtime-main.js": "/discord_clone/static/js/runtime-main.77c8f669.js",
+    "runtime-main.js.map": "/discord_clone/static/js/runtime-main.77c8f669.js.map",
+    "static/js/2.f79fd510.chunk.js": "/discord_clone/static/js/2.f79fd510.chunk.js",
+    "static/js/2.f79fd510.chunk.js.map": "/discord_clone/static/js/2.f79fd510.chunk.js.map",
+    "index.html": "/discord_clone/index.html",
+    "precache-manifest.7a548cb249f5e4e8da870d1d2fb36fac.js": "/discord_clone/precache-manifest.7a548cb249f5e4e8da870d1d2fb36fac.js",
+    "service-worker.js": "/discord_clone/service-worker.js",
+    "static/js/2.f79fd510.chunk.js.LICENSE.txt": "/discord_clone/static/js/2.f79fd510.chunk.js.LICENSE.txt",
+    "static/media/Discord-Logo-White.svg": "/discord_clone/static/media/Discord-Logo-White.1c8a54f2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b57ff01.js",
-    "static/js/2.a78ed542.chunk.js",
+    "static/js/runtime-main.77c8f669.js",
+    "static/js/2.f79fd510.chunk.js",
     "static/js/main.fbf4d165.chunk.js"
   ]
 }
