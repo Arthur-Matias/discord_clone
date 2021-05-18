@@ -1,7 +1,6 @@
 ### Discord clone
 
-Clone frontend do app Discord em React e TypeScript
-
+Discord frontend clone with React and TypeScript
 
 ![alt text](https://github.com/Arthur-Matias/discord_clone/blob/master/src/assets/discord.png?raw=true)
 
