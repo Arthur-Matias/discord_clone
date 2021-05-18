@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42cc88cef9cc03193f9a56417a647b6d",
+    "revision": "baa77672537b8844dbd6f3d0d042b60f",
     "url": "/Arthur-Matias/discord_clone/index.html"
   },
   {
