@@ -2,7 +2,7 @@
 
 Discord frontend clone with React and TypeScript
 
-![alt text](https://github.com/Arthur-Matias/discord_clone/blob/master/src/assets/discord.png?raw=true)
+[![alt text](https://github.com/Arthur-Matias/discord_clone/blob/master/src/assets/discord.png?raw=true)](https://arthur-matias.github.io/discord_clone/)
 
 # Getting Started
 
@@ -15,11 +15,6 @@ $ git clone https://github.com/Arthur-Matias/Arthur-Matias.github.io
 In the project directory, you can run:
 ```bash
 $ yarn install // also work with npm
-```
-
-to install the project dependencies.
-
-```bash
 $ yarn start
 ```
 
