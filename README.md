@@ -20,7 +20,7 @@ $ yarn install // also work with npm
 to install the project dependencies.
 
 ```bash
-> $ yarn start
+$ yarn start
 ```
 
 Runs the app in the development mode.
