@@ -14,7 +14,7 @@ $ git clone https://github.com/Arthur-Matias/Arthur-Matias.github.io
 
 In the project directory, you can run:
 ```bash
-$ yarn install // also work with npm
+$ yarn install # also work with npm
 $ yarn start
 ```
 
