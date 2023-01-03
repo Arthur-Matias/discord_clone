@@ -84,8 +84,12 @@ export const Avatar = styled.div`
 
   border-radius: 50%;
   background-color: var(--primary);
+  aspect-ratio: 1 / 1;
 
   &.bot{
     background-color: var(--mention-detail);
+  }
+  &.active{
+    background-color: var(--online);
   }
 `;
