@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a2950d8a.chunk.js",
+    "main.js.map": "/static/js/main.a2950d8a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4e5d508e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4e5d508e.js.map",
+    "static/js/2.d32d0edf.chunk.js": "/static/js/2.d32d0edf.chunk.js",
+    "static/js/2.d32d0edf.chunk.js.map": "/static/js/2.d32d0edf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ccada7391f97ce073589a9d19cfd3b5b.js": "/precache-manifest.ccada7391f97ce073589a9d19cfd3b5b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.d32d0edf.chunk.js.LICENSE.txt": "/static/js/2.d32d0edf.chunk.js.LICENSE.txt",
+    "static/media/Discord-Logo-White.svg": "/static/media/Discord-Logo-White.1c8a54f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e5d508e.js",
+    "static/js/2.d32d0edf.chunk.js",
+    "static/js/main.a2950d8a.chunk.js"
+  ]
+}
